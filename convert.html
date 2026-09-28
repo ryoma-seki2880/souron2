@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>問題データ変換</title>
+<style>
+  body { font-family: 'Hiragino Sans', 'Meiryo', sans-serif; max-width: 720px; margin: 0 auto; padding: 24px 16px; color: #333; line-height: 1.7; }
+  h1 { font-size: 22px; }
+  ol { padding-left: 1.3em; }
+  .box { background: #f5f5f5; border-radius: 10px; padding: 16px; margin: 16px 0; }
+  button { padding: 10px 24px; border: none; border-radius: 20px; background: #667eea; color: #fff; font-size: 15px; cursor: pointer; }
+  button:disabled { background: #bbb; cursor: default; }
+  #log { white-space: pre-wrap; font-size: 14px; }
+  .err { color: #c62828; }
+</style>
+</head>
+<body>
+<h1>問題データ変換(CSV → questions.json)</h1>
+<ol>
+  <li>スプレッドシートで「ファイル → ダウンロード → カンマ区切り形式(.csv)」を選ぶ</li>
+  <li>下でそのCSVを選ぶ</li>
+  <li>「questions.json をダウンロード」を押し、リポジトリの questions.json と差し替える</li>
+</ol>
+<div class="box">
+  <input type="file" id="file" accept=".csv,text/csv">
+  <p id="log"></p>
+  <button id="dl" disabled>questions.json をダウンロード</button>
+</div>
+<script>
+  let output = null;
+
+  // ダブルクォート・改行を含むセルにも対応したCSV解析
+  function parseCSV(text) {
+    const rows = []; let row = []; let cell = ''; let q = false;
+    for (let i = 0; i < text.length; i++) {
+      const c = text[i];
+      if (q) {
+        if (c === '"' && text[i + 1] === '"') { cell += '"'; i++; }
+        else if (c === '"') q = false;
+        else cell += c;
+      } else if (c === '"') q = true;
+      else if (c === ',') { row.push(cell); cell = ''; }
+      else if (c === '\n') { row.push(cell); rows.push(row); row = []; cell = ''; }
+      else if (c !== '\r') cell += c;
+    }
+    if (cell !== '' || row.length) { row.push(cell); rows.push(row); }
+    return rows;
+  }
+
+  function normalizeAnswer(a) {
+    if (/[〇○◯⭕]/.test(a)) return '○';
+    if (/[✕×✖╳❌]/.test(a)) return '×';
+    return null;
+  }
+
+  document.getElementById('file').addEventListener('change', async e => {
+    const f = e.target.files[0]; if (!f) return;
+    const text = (await f.text()).replace(/^﻿/, '');
+    const rows = parseCSV(text).slice(1);   // 1行目は見出し
+    const log = []; const seen = new Set(); output = [];
+    rows.forEach((r, i) => {
+      const [cat = '', ans = '', q = '', exp = ''] = r.map(s => s.trim());
+      if (!cat && !q) return;
+      const line = i + 2;
+      const a = normalizeAnswer(ans);
+      if (!cat || !q || !a) { log.push(`<span class="err">${line}行目: カテゴリ・回答・問題文のいずれかが不正なため除外</span>`); return; }
+      if (seen.has(q)) { log.push(`${line}行目: 問題文が重複しているため除外`); return; }
+      seen.add(q);
+      output.push({ id: output.length + 1, category: cat, answer: a, question: q, explanation: exp });
+    });
+    const counts = {};
+    output.forEach(o => counts[o.category] = (counts[o.category] || 0) + 1);
+    document.getElementById('log').innerHTML =
+      `変換できた問題: ${output.length}問\n` +
+      Object.entries(counts).map(([k, v]) => `・${k}: ${v}問`).join('\n') +
+      (log.length ? '\n\n' + log.join('\n') : '');
+    document.getElementById('dl').disabled = output.length === 0;
+  });
+
+  document.getElementById('dl').addEventListener('click', () => {
+    const blob = new Blob([JSON.stringify(output, null, 1)], { type: 'application/json' });
+    const a = document.createElement('a');
+    a.href = URL.createObjectURL(blob); a.download = 'questions.json'; a.click();
+  });
+</script>
+</body>
+</html>

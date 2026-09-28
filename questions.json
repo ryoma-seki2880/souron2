@@ -1,0 +1,1360 @@
+[
+ {
+  "id": 1,
+  "category": "脱臼総論",
+  "answer": "○",
+  "question": "反復性脱臼は肩関節に多い。",
+  "explanation": ""
+ },
+ {
+  "id": 2,
+  "category": "脱臼総論",
+  "answer": "×",
+  "question": "中心性脱臼は肩関節に多い。",
+  "explanation": "中心性脱臼は股関節に多い。"
+ },
+ {
+  "id": 3,
+  "category": "脱臼総論",
+  "answer": "×",
+  "question": "習慣性脱臼は第1指中手指節（MP）関節に多い。",
+  "explanation": "習慣性脱臼は顎関節や膝蓋骨にみられる。第1指中手指節（MP）関節に多いのは随意性脱臼である。"
+ },
+ {
+  "id": 4,
+  "category": "脱臼総論",
+  "answer": "○",
+  "question": "先天性脱臼は股関節に多い。",
+  "explanation": ""
+ },
+ {
+  "id": 5,
+  "category": "脱臼総論",
+  "answer": "×",
+  "question": "脱臼では関節包の損傷は必発する。",
+  "explanation": "顎関節脱臼や股関節中心性脱臼では関節包は断裂しないため、関節包の損傷は必発ではない。"
+ },
+ {
+  "id": 6,
+  "category": "脱臼総論",
+  "answer": "○",
+  "question": "関節軸は骨頭の方向に転位する。",
+  "explanation": ""
+ },
+ {
+  "id": 7,
+  "category": "脱臼総論",
+  "answer": "○",
+  "question": "掌側板の嵌入は整復障害となる。",
+  "explanation": ""
+ },
+ {
+  "id": 8,
+  "category": "脱臼総論",
+  "answer": "○",
+  "question": "ボタン穴機構は整復障害となる。",
+  "explanation": ""
+ },
+ {
+  "id": 9,
+  "category": "脱臼総論",
+  "answer": "○",
+  "question": "急性化膿性股関節炎は拡張性脱臼の原因となる。",
+  "explanation": ""
+ },
+ {
+  "id": 10,
+  "category": "脱臼総論",
+  "answer": "○",
+  "question": "関節リウマチは破壊性脱臼の原因となる。",
+  "explanation": ""
+ },
+ {
+  "id": 11,
+  "category": "脱臼総論",
+  "answer": "○",
+  "question": "脳血管障害は麻痺性脱臼の原因となる。",
+  "explanation": ""
+ },
+ {
+  "id": 12,
+  "category": "脱臼総論",
+  "answer": "×",
+  "question": "血友病は発育性脱臼の原因となる。",
+  "explanation": "発育性脱臼は胚芽形成不全や胎内負荷変形が原因となる。"
+ },
+ {
+  "id": 13,
+  "category": "脱臼総論",
+  "answer": "×",
+  "question": "筋の弛緩は脱臼の整復障害である。",
+  "explanation": "筋の緊張は整復障害となりうるが、筋の弛緩は整復障害とならない。"
+ },
+ {
+  "id": 14,
+  "category": "脱臼総論",
+  "answer": "○",
+  "question": "種子骨の介在は脱臼の整復障害である。",
+  "explanation": ""
+ },
+ {
+  "id": 15,
+  "category": "脱臼総論",
+  "answer": "○",
+  "question": "整復支点の骨欠損は脱臼の整復障害である。",
+  "explanation": ""
+ },
+ {
+  "id": 16,
+  "category": "脱臼総論",
+  "answer": "×",
+  "question": "外傷性脱臼後に軽微な外力や筋力で脱臼を繰り返すものを習慣性脱臼という。",
+  "explanation": "習慣性脱臼は明らかな外傷の既往がないものである。"
+ },
+ {
+  "id": 17,
+  "category": "脱臼総論",
+  "answer": "×",
+  "question": "本人の意思で脱臼を起こし、また原位置に復することができるものを反復性脱臼という。",
+  "explanation": "随意性脱臼の説明である。"
+ },
+ {
+  "id": 18,
+  "category": "脱臼総論",
+  "answer": "×",
+  "question": "大腿骨外顆形成不全に起因する膝蓋骨脱臼は随意性脱臼である。",
+  "explanation": "習慣性脱臼の説明である。"
+ },
+ {
+  "id": 19,
+  "category": "脱臼総論",
+  "answer": "○",
+  "question": "反復性脱臼は肩関節で多くみられる。",
+  "explanation": ""
+ },
+ {
+  "id": 20,
+  "category": "脱臼総論",
+  "answer": "○",
+  "question": "関節包の拘縮は関節運動障害の原因となる。",
+  "explanation": ""
+ },
+ {
+  "id": 21,
+  "category": "脱臼総論",
+  "answer": "○",
+  "question": "陳旧性脱臼は仮性関節窩を形成する。",
+  "explanation": ""
+ },
+ {
+  "id": 22,
+  "category": "脱臼総論",
+  "answer": "○",
+  "question": "関節軟骨損傷を合併した外傷性脱臼は反復性脱臼の原因となる。",
+  "explanation": ""
+ },
+ {
+  "id": 23,
+  "category": "脱臼総論",
+  "answer": "×",
+  "question": "長期の固定は骨化性筋炎の原因となる。",
+  "explanation": "長期の固定は骨化性筋炎の原因ではなく、血腫の存在が原因となる。"
+ },
+ {
+  "id": 24,
+  "category": "脱臼総論",
+  "answer": "○",
+  "question": "脱臼は関節が一定の肢位をとり固定される。",
+  "explanation": ""
+ },
+ {
+  "id": 25,
+  "category": "脱臼総論",
+  "answer": "○",
+  "question": "脱臼肢は外から力を加えると関節がわずかに動く。",
+  "explanation": ""
+ },
+ {
+  "id": 26,
+  "category": "脱臼総論",
+  "answer": "×",
+  "question": "弾発性固定がなければ脱臼を否定できる。",
+  "explanation": "不全脱臼や脱臼骨折では弾発性固定が認められない場合が多い。"
+ },
+ {
+  "id": 27,
+  "category": "脱臼総論",
+  "answer": "○",
+  "question": "弾発性固定は徒手整復されると消失する。",
+  "explanation": ""
+ },
+ {
+  "id": 28,
+  "category": "脱臼総論",
+  "answer": "○",
+  "question": "関節軸の転位は脱臼の固有症状である。",
+  "explanation": ""
+ },
+ {
+  "id": 29,
+  "category": "脱臼総論",
+  "answer": "×",
+  "question": "関節周囲の腫脹は脱臼の固有症状である。",
+  "explanation": "脱臼の固有症状は弾発性固定と関節部の変形である。"
+ },
+ {
+  "id": 30,
+  "category": "脱臼総論",
+  "answer": "○",
+  "question": "関節窩の空虚は脱臼の固有症状である。",
+  "explanation": ""
+ },
+ {
+  "id": 31,
+  "category": "脱臼総論",
+  "answer": "○",
+  "question": "骨頭の位置異常は脱臼の固有症状である。",
+  "explanation": ""
+ },
+ {
+  "id": 32,
+  "category": "脱臼総論",
+  "answer": "×",
+  "question": "遠位橈尺関節脱臼は掌側板または種子骨の嵌入による整復障害がみられる。",
+  "explanation": "掌側板または種子骨の嵌入による整復障害は第1中手指節関節脱臼や第1趾中足趾節関節脱臼時に時々みられる。"
+ },
+ {
+  "id": 33,
+  "category": "脱臼総論",
+  "answer": "×",
+  "question": "月状骨周囲脱臼は掌側板または種子骨の嵌入による整復障害がみられる。",
+  "explanation": "掌側板または種子骨の嵌入による整復障害は第1中手指節関節脱臼や第1趾中足趾節関節脱臼時に時々みられる。"
+ },
+ {
+  "id": 34,
+  "category": "脱臼総論",
+  "answer": "×",
+  "question": "母指の手根中手関節脱臼は掌側板または種子骨の嵌入による整復障害がみられる。",
+  "explanation": "掌側板または種子骨の嵌入による整復障害は第1中手指節関節脱臼や第1趾中足趾節関節脱臼時に時々みられる。"
+ },
+ {
+  "id": 35,
+  "category": "脱臼総論",
+  "answer": "○",
+  "question": "母指の中手指節関節脱臼は掌側板または種子骨の嵌入による整復障害がみられる。",
+  "explanation": ""
+ },
+ {
+  "id": 36,
+  "category": "脱臼総論",
+  "answer": "×",
+  "question": "関節裂隙に沿った限局性圧痛があれば脱臼と判断できる。",
+  "explanation": "脱臼の固有症状は弾発性固定と関節部の変形であり、いずれかの固有症状あれば脱臼と判断できる。"
+ },
+ {
+  "id": 37,
+  "category": "脱臼総論",
+  "answer": "○",
+  "question": "関節腔が空虚であれば脱臼と判断できる。",
+  "explanation": ""
+ },
+ {
+  "id": 38,
+  "category": "脱臼総論",
+  "answer": "×",
+  "question": "関節周径が健側に比べて大きくなっていれば脱臼と判断できる。",
+  "explanation": "脱臼の固有症状は弾発性固定と関節部の変形であり、いずれかの固有症状あれば脱臼と判断できる。"
+ },
+ {
+  "id": 39,
+  "category": "脱臼総論",
+  "answer": "×",
+  "question": "関節可動域が健側に比べて小さくなっていれば脱臼と判断できる。",
+  "explanation": "脱臼の固有症状は弾発性固定と関節部の変形であり、いずれかの固有症状あれば脱臼と判断できる。"
+ },
+ {
+  "id": 40,
+  "category": "脱臼総論",
+  "answer": "○",
+  "question": "肩関節前方脱臼は反復性脱臼になりやすい。",
+  "explanation": ""
+ },
+ {
+  "id": 41,
+  "category": "脱臼総論",
+  "answer": "×",
+  "question": "示指ＭＰ関節背側脱臼は反復性脱臼になりやすい。",
+  "explanation": "反復性脱臼は肩関節に多い。"
+ },
+ {
+  "id": 42,
+  "category": "脱臼総論",
+  "answer": "×",
+  "question": "膝関節後方脱臼は反復性脱臼になりやすい。",
+  "explanation": "反復性脱臼は肩関節に多い。"
+ },
+ {
+  "id": 43,
+  "category": "脱臼総論",
+  "answer": "×",
+  "question": "距骨前方脱臼は反復性脱臼になりやすい。",
+  "explanation": "反復性脱臼は肩関節に多い。"
+ },
+ {
+  "id": 44,
+  "category": "脱臼総論",
+  "answer": "×",
+  "question": "骨軟骨の発達障害は反復性脱臼の原因となる。",
+  "explanation": "骨軟骨の発達障害は習慣性脱臼の原因となる。"
+ },
+ {
+  "id": 45,
+  "category": "脱臼総論",
+  "answer": "×",
+  "question": "関節の弛緩は反復性脱臼の原因となる。",
+  "explanation": "関節の弛緩は習慣性脱臼の原因となる。"
+ },
+ {
+  "id": 46,
+  "category": "脱臼総論",
+  "answer": "×",
+  "question": "自身の筋力は反復性脱臼の原因となる。",
+  "explanation": "自身の筋力は随意性脱臼の原因となる。"
+ },
+ {
+  "id": 47,
+  "category": "脱臼総論",
+  "answer": "○",
+  "question": "腱付着部の裂離骨折は反復性脱臼の原因となる。",
+  "explanation": ""
+ },
+ {
+  "id": 48,
+  "category": "脱臼総論",
+  "answer": "○",
+  "question": "弾発性抵抗を認めれば脱臼を疑う。",
+  "explanation": ""
+ },
+ {
+  "id": 49,
+  "category": "脱臼総論",
+  "answer": "○",
+  "question": "関節軸の変化は脱臼を疑う。",
+  "explanation": ""
+ },
+ {
+  "id": 50,
+  "category": "脱臼総論",
+  "answer": "×",
+  "question": "関節血腫が著明であれば脱臼を疑う。",
+  "explanation": "脱臼の固有症状は弾発性固定と関節部の変形であり、いずれかの固有症状あれば脱臼を疑う。"
+ },
+ {
+  "id": 51,
+  "category": "脱臼総論",
+  "answer": "○",
+  "question": "脱臼では関節窩部に陥凹を触知する。",
+  "explanation": ""
+ },
+ {
+  "id": 52,
+  "category": "脱臼総論",
+  "answer": "×",
+  "question": "反復性脱臼は病的脱臼である。",
+  "explanation": "病的脱臼は麻痺性、拡張性、破壊性の3つがある。"
+ },
+ {
+  "id": 53,
+  "category": "脱臼総論",
+  "answer": "○",
+  "question": "麻痺性脱臼は病的脱臼である。",
+  "explanation": ""
+ },
+ {
+  "id": 54,
+  "category": "脱臼総論",
+  "answer": "○",
+  "question": "拡張性脱臼は病的脱臼である。",
+  "explanation": ""
+ },
+ {
+  "id": 55,
+  "category": "脱臼総論",
+  "answer": "○",
+  "question": "破壊性脱臼は病的脱臼である。",
+  "explanation": ""
+ },
+ {
+  "id": 56,
+  "category": "脱臼総論",
+  "answer": "×",
+  "question": "膝関節は反復性脱臼となりやすい。",
+  "explanation": "反復性脱臼は肩関節に多い。"
+ },
+ {
+  "id": 57,
+  "category": "脱臼総論",
+  "answer": "×",
+  "question": "第2指 MP 関節は随意性脱臼を起こしやすい。",
+  "explanation": "随意性脱臼は第1指MP関節や肩関節に多い。"
+ },
+ {
+  "id": 58,
+  "category": "脱臼総論",
+  "answer": "○",
+  "question": "股関節は拡張性脱臼となりやすい。",
+  "explanation": ""
+ },
+ {
+  "id": 59,
+  "category": "脱臼総論",
+  "answer": "×",
+  "question": "肘関節は恒久性脱臼となりやすい。",
+  "explanation": "恒久性脱臼は膝蓋骨に多い。"
+ },
+ {
+  "id": 60,
+  "category": "脱臼総論",
+  "answer": "×",
+  "question": "非感染性の炎症は外傷性脱臼の発生要因となる。",
+  "explanation": "外傷性脱臼は外力により生理的範囲以上の運動が強制されて、原則的に関節包が断裂し発生する。"
+ },
+ {
+  "id": 61,
+  "category": "脱臼総論",
+  "answer": "○",
+  "question": "関節包の断裂は外傷性脱臼の発生要因となる。",
+  "explanation": ""
+ },
+ {
+  "id": 62,
+  "category": "脱臼総論",
+  "answer": "×",
+  "question": "弛緩性の麻痺は外傷性脱臼の発生要因となる。",
+  "explanation": "問題文は病的脱臼の発生要因である。"
+ },
+ {
+  "id": 63,
+  "category": "脱臼総論",
+  "answer": "×",
+  "question": "関節リウマチによる関節の破壊は外傷性脱臼の発生要因となる。",
+  "explanation": "問題文は病的脱臼の発生要因である。"
+ },
+ {
+  "id": 64,
+  "category": "脱臼総論",
+  "answer": "×",
+  "question": "限局性圧痛は脱臼の固有症状である。",
+  "explanation": "脱臼の固有症状は弾発性固定と関節部の変形である。"
+ },
+ {
+  "id": 65,
+  "category": "脱臼総論",
+  "answer": "×",
+  "question": "異常可動性は脱臼の固有症状である。",
+  "explanation": "脱臼の固有症状は弾発性固定と関節部の変形であり、問題文は骨折の固有症状である。"
+ },
+ {
+  "id": 66,
+  "category": "脱臼総論",
+  "answer": "○",
+  "question": "弾発性抵抗は脱臼の固有症状である。",
+  "explanation": ""
+ },
+ {
+  "id": 67,
+  "category": "脱臼総論",
+  "answer": "×",
+  "question": "機能障害は脱臼の固有症状である。",
+  "explanation": "脱臼の固有症状は弾発性固定と関節部の変形であり、問題文は一般外傷症状である。"
+ },
+ {
+  "id": 68,
+  "category": "脱臼総論",
+  "answer": "×",
+  "question": "化膿性骨髄炎は脱臼の合併症である。",
+  "explanation": "脱臼の合併症は骨折、血管および神経の損傷、軟部組織の損傷、内臓器の損傷などがあげられる。急性化膿性骨髄炎は骨折の合併症である。"
+ },
+ {
+  "id": 69,
+  "category": "脱臼総論",
+  "answer": "○",
+  "question": "阻血性壊死は脱臼の合併症である。",
+  "explanation": ""
+ },
+ {
+  "id": 70,
+  "category": "脱臼総論",
+  "answer": "×",
+  "question": "変形癒合は脱臼の合併症である。",
+  "explanation": "脱臼の合併症は骨折、血管および神経の損傷、軟部組織の損傷、内臓器の損傷などがあげられる。変形癒合は骨折の合併症である。"
+ },
+ {
+  "id": 71,
+  "category": "脱臼総論",
+  "answer": "×",
+  "question": "偽関節は脱臼の合併症である。",
+  "explanation": "脱臼の合併症は骨折、血管および神経の損傷、軟部組織の損傷、内臓器の損傷などがあげられる。偽関節は骨折の合併症である。"
+ },
+ {
+  "id": 72,
+  "category": "筋損傷総論",
+  "answer": "○",
+  "question": "肉離れはハムストリングスに好発する。",
+  "explanation": ""
+ },
+ {
+  "id": 73,
+  "category": "筋損傷総論",
+  "answer": "○",
+  "question": "挫滅症候群は壊死した筋細胞から出るミオグロビンが原因となる。",
+  "explanation": ""
+ },
+ {
+  "id": 74,
+  "category": "筋損傷総論",
+  "answer": "○",
+  "question": "筋損傷で生じた血腫は骨化性筋炎の原因となる。",
+  "explanation": ""
+ },
+ {
+  "id": 75,
+  "category": "筋損傷総論",
+  "answer": "×",
+  "question": "筋損傷後は壊死部が延長して再生する。",
+  "explanation": "筋損傷後の修復過程は、筋衛星細胞の増殖がみられ、これが新生筋線維に置換する。"
+ },
+ {
+  "id": 76,
+  "category": "靭帯損傷総論",
+  "answer": "○",
+  "question": "関節血腫は捻挫の症状である。",
+  "explanation": ""
+ },
+ {
+  "id": 77,
+  "category": "靭帯損傷総論",
+  "answer": "○",
+  "question": "関節の不安定性は捻挫の症状である。",
+  "explanation": ""
+ },
+ {
+  "id": 78,
+  "category": "靭帯損傷総論",
+  "answer": "×",
+  "question": "弾発性固定は捻挫の症状である。",
+  "explanation": "弾発性固定は脱臼の固有症状である。"
+ },
+ {
+  "id": 79,
+  "category": "靭帯損傷総論",
+  "answer": "○",
+  "question": "靭帯部の陥凹の触知は捻挫の症状である。",
+  "explanation": ""
+ },
+ {
+  "id": 80,
+  "category": "靭帯損傷総論",
+  "answer": "×",
+  "question": "靭帯の第1度損傷で受傷直後に局所の陥凹がみられる。",
+  "explanation": "靭帯の第1度損傷は局所の陥凹はみられず、疼痛のため自動運動の関節可動域減少がみられる。"
+ },
+ {
+  "id": 81,
+  "category": "靭帯損傷総論",
+  "answer": "×",
+  "question": "靭帯の第1度損傷で受傷直後に皮下出血斑の出現がみられる。",
+  "explanation": "受傷直後に皮下出血斑はみられない。"
+ },
+ {
+  "id": 82,
+  "category": "靭帯損傷総論",
+  "answer": "×",
+  "question": "靭帯の第1度損傷で受傷直後に不安定性の徒手検査陽性となる。",
+  "explanation": "靭帯の第1度損傷は不安定性はみられず、疼痛のため自動運動の関節可動域減少がみられる。"
+ },
+ {
+  "id": 83,
+  "category": "靭帯損傷総論",
+  "answer": "○",
+  "question": "靭帯の第1度損傷で受傷直後に自動運動の関節可動域が減少する。",
+  "explanation": ""
+ },
+ {
+  "id": 84,
+  "category": "神経損傷総論",
+  "answer": "×",
+  "question": "チネル徴候はneurapraxiaで特徴的にみられる。",
+  "explanation": "チネル徴候は構造的な神経損傷（axonotmesisやneurotmesis）で見られる現象であり、機能的障害のみのneurapraxiaでは通常認められない。"
+ },
+ {
+  "id": 85,
+  "category": "神経損傷総論",
+  "answer": "×",
+  "question": "チネル徴候は経時的に近位に移動していく。",
+  "explanation": "チネル徴候は経時的に遠位（末梢側）に移動する。"
+ },
+ {
+  "id": 86,
+  "category": "神経損傷総論",
+  "answer": "×",
+  "question": "チネル徴候はWaller変性が起こる前にみられる。",
+  "explanation": "チネル徴候はWaller変性が起こった後、神経が再生する過程で出現する現象であり、変性前にはみられない。"
+ },
+ {
+  "id": 87,
+  "category": "神経損傷総論",
+  "answer": "○",
+  "question": "チネル徴候は末梢神経の再生状況を評価できる。",
+  "explanation": ""
+ },
+ {
+  "id": 88,
+  "category": "脱臼総論",
+  "answer": "×",
+  "question": "筋損傷は外傷性脱臼に合併する軟部組織損傷で最も多い。",
+  "explanation": "外傷性脱臼に合併する軟部組織損傷で最も多いのは関節包損傷である。"
+ },
+ {
+  "id": 89,
+  "category": "脱臼総論",
+  "answer": "○",
+  "question": "関節包損傷は外傷性脱臼に合併する軟部組織損傷で最も多い。",
+  "explanation": ""
+ },
+ {
+  "id": 90,
+  "category": "脱臼総論",
+  "answer": "×",
+  "question": "神経損傷は外傷性脱臼に合併する軟部組織損傷で最も多い。",
+  "explanation": "外傷性脱臼に合併する軟部組織損傷で最も多いのは関節包損傷である。"
+ },
+ {
+  "id": 91,
+  "category": "脱臼総論",
+  "answer": "×",
+  "question": "血管損傷は外傷性脱臼に合併する軟部組織損傷で最も多い。",
+  "explanation": "外傷性脱臼に合併する軟部組織損傷で最も多いのは関節包損傷である。"
+ },
+ {
+  "id": 92,
+  "category": "関節損傷総論",
+  "answer": "×",
+  "question": "関節部の損傷は大部分が直達外力によるものである。",
+  "explanation": "関節部の損傷の大部分は介達外力によるものである。"
+ },
+ {
+  "id": 93,
+  "category": "関節損傷総論",
+  "answer": "×",
+  "question": "関節円板障害は足関節にみられる。",
+  "explanation": "関節円板は顎関節や胸鎖関節にみられる。"
+ },
+ {
+  "id": 94,
+  "category": "靭帯損傷総論",
+  "answer": "○",
+  "question": "捻挫は靱帯損傷として認識される。",
+  "explanation": ""
+ },
+ {
+  "id": 95,
+  "category": "脱臼総論",
+  "answer": "×",
+  "question": "顎関節脱臼は関節包断裂を認める。",
+  "explanation": "顎関節脱臼や股関節中心性脱臼では関節包の断裂は認められない。"
+ },
+ {
+  "id": 96,
+  "category": "靭帯損傷総論",
+  "answer": "○",
+  "question": "限局性圧痛は靭帯損傷の新鮮例でみられる。",
+  "explanation": ""
+ },
+ {
+  "id": 97,
+  "category": "靭帯損傷総論",
+  "answer": "○",
+  "question": "皮下出血斑は靭帯損傷の新鮮例でみられる。",
+  "explanation": ""
+ },
+ {
+  "id": 98,
+  "category": "靭帯損傷総論",
+  "answer": "○",
+  "question": "腫脹は靭帯損傷の新鮮例でみられる。",
+  "explanation": ""
+ },
+ {
+  "id": 99,
+  "category": "靭帯損傷総論",
+  "answer": "×",
+  "question": "筋萎縮は靭帯損傷の新鮮例でみられる。",
+  "explanation": "筋萎縮は後遺症として見られることがある。"
+ },
+ {
+  "id": 100,
+  "category": "神経損傷総論",
+  "answer": "○",
+  "question": "チネル徴候は再生の先端部でみられる。",
+  "explanation": ""
+ },
+ {
+  "id": 101,
+  "category": "神経損傷総論",
+  "answer": "×",
+  "question": "一過性神経伝導障害では順行性変性が起こる。",
+  "explanation": "一過性神経伝導障害では変性は起こらない。"
+ },
+ {
+  "id": 102,
+  "category": "神経損傷総論",
+  "answer": "×",
+  "question": "軸索断裂では中枢側にワーラー変性が起こる。",
+  "explanation": "ワーラー変性は末梢側に起こるものである。"
+ },
+ {
+  "id": 103,
+  "category": "神経損傷総論",
+  "answer": "×",
+  "question": "自律神経障害の急性期では皮膚温が低下する。",
+  "explanation": "自律神経障害の急性期では皮膚温が上昇し慢性化すると低下する。"
+ },
+ {
+  "id": 104,
+  "category": "関節損傷総論",
+  "answer": "×",
+  "question": "関節軟骨損傷は初期の段階で病態を把握しやすい。",
+  "explanation": "関節軟骨は関節面にあることから初期はわかりにくい。"
+ },
+ {
+  "id": 105,
+  "category": "関節損傷総論",
+  "answer": "×",
+  "question": "関節軟骨損傷は直達外力による損傷が多い。",
+  "explanation": "関節軟骨損傷は介達外力によるものが多い。"
+ },
+ {
+  "id": 106,
+  "category": "関節損傷総論",
+  "answer": "○",
+  "question": "関節軟骨損傷では自己修復能が乏しい。",
+  "explanation": ""
+ },
+ {
+  "id": 107,
+  "category": "関節損傷総論",
+  "answer": "×",
+  "question": "関節軟骨損傷では関節血腫がみられる。",
+  "explanation": "関節軟骨は血管を欠くので関節血腫はみられない。"
+ },
+ {
+  "id": 108,
+  "category": "筋損傷総論",
+  "answer": "○",
+  "question": "骨格筋と心筋は横紋筋である。",
+  "explanation": ""
+ },
+ {
+  "id": 109,
+  "category": "筋損傷総論",
+  "answer": "×",
+  "question": "筋は筋周膜に包まれる。",
+  "explanation": "筋周膜は筋束を包み、筋を包むのは筋上膜である。"
+ },
+ {
+  "id": 110,
+  "category": "筋損傷総論",
+  "answer": "○",
+  "question": "筋線維は筋内膜に包まれる。",
+  "explanation": ""
+ },
+ {
+  "id": 111,
+  "category": "筋損傷総論",
+  "answer": "○",
+  "question": "筋束は筋線維の集まりである。",
+  "explanation": ""
+ },
+ {
+  "id": 112,
+  "category": "筋損傷総論",
+  "answer": "○",
+  "question": "生理学的断面積は筋線維の走行に対して直角な面である。",
+  "explanation": ""
+ },
+ {
+  "id": 113,
+  "category": "筋損傷総論",
+  "answer": "×",
+  "question": "筋は動きが多いほうを起始と呼ぶ。",
+  "explanation": "筋の収縮作用によって動くのは停止であり、動点とも呼ばれる。"
+ },
+ {
+  "id": 114,
+  "category": "筋損傷総論",
+  "answer": "○",
+  "question": "ミオシンフィラメントは太いフィラメントである。",
+  "explanation": ""
+ },
+ {
+  "id": 115,
+  "category": "筋損傷総論",
+  "answer": "×",
+  "question": "四肢では体幹に近いほうが停止である。",
+  "explanation": "四肢では体幹に近いほうが起始である。"
+ },
+ {
+  "id": 116,
+  "category": "筋損傷総論",
+  "answer": "○",
+  "question": "筋膜は浅筋膜と深筋膜に分かれる。",
+  "explanation": ""
+ },
+ {
+  "id": 117,
+  "category": "筋損傷総論",
+  "answer": "○",
+  "question": "肉離れは介達外力での損傷である。",
+  "explanation": ""
+ },
+ {
+  "id": 118,
+  "category": "筋損傷総論",
+  "answer": "○",
+  "question": "筋損傷はスポーツ活動時の加速期と減速期に損傷しやすい。",
+  "explanation": ""
+ },
+ {
+  "id": 119,
+  "category": "筋損傷総論",
+  "answer": "○",
+  "question": "瞬間的に作用する力のことを急性という。",
+  "explanation": ""
+ },
+ {
+  "id": 120,
+  "category": "筋損傷総論",
+  "answer": "×",
+  "question": "繰り返しや継続して作用する力のことを慢性という。",
+  "explanation": "繰り返しや継続して作用する力を反復性あるいは蓄積性と呼ぶ。"
+ },
+ {
+  "id": 121,
+  "category": "筋損傷総論",
+  "answer": "×",
+  "question": "身体の柔軟性があれば筋損傷は起きない。",
+  "explanation": "柔軟性の向上は筋損傷の発生リスクを下げることはできるが防ぐことはできない。"
+ },
+ {
+  "id": 122,
+  "category": "筋損傷総論",
+  "answer": "○",
+  "question": "外傷性筋損傷では筋の柔軟性やコンディションが大きく関与している。",
+  "explanation": ""
+ },
+ {
+  "id": 123,
+  "category": "筋損傷総論",
+  "answer": "×",
+  "question": "疲労性筋損傷は急性に発生する損傷である。",
+  "explanation": "疲労性筋損傷は蓄積性に発生する損傷である。"
+ },
+ {
+  "id": 124,
+  "category": "筋損傷総論",
+  "answer": "○",
+  "question": "病的な状態での筋損傷は比較的外傷性のものと鑑別は容易である。",
+  "explanation": ""
+ },
+ {
+  "id": 125,
+  "category": "筋損傷総論",
+  "answer": "○",
+  "question": "筋損傷の第Ⅱ度は筋腱移行部損傷型である。",
+  "explanation": ""
+ },
+ {
+  "id": 126,
+  "category": "筋損傷総論",
+  "answer": "×",
+  "question": "いわゆる足がつった状態は急性の筋損傷である。",
+  "explanation": "筋痙攣は蓄積性に発生する疲労性筋損傷である。"
+ },
+ {
+  "id": 127,
+  "category": "筋損傷総論",
+  "answer": "○",
+  "question": "筋損傷の長軸での分類は筋の起始部、筋腹部、筋腱移行部、腱部、骨付着部の損傷に分類できる。",
+  "explanation": ""
+ },
+ {
+  "id": 128,
+  "category": "筋損傷総論",
+  "answer": "○",
+  "question": "筋損傷の浅深での分類は筋膜、筋の浅層、筋の深層、他筋との付着部の損傷に分類できる。",
+  "explanation": ""
+ },
+ {
+  "id": 129,
+  "category": "筋損傷総論",
+  "answer": "○",
+  "question": "筋内損傷では瘢痕を形成する。",
+  "explanation": ""
+ },
+ {
+  "id": 130,
+  "category": "筋損傷総論",
+  "answer": "×",
+  "question": "直達外力での筋損傷は浅層の損傷が多い。",
+  "explanation": "直達外力の筋損傷では深層の損傷が多い。"
+ },
+ {
+  "id": 131,
+  "category": "筋損傷総論",
+  "answer": "○",
+  "question": "筋挫傷では骨化性筋炎を起こす可能性がある。",
+  "explanation": ""
+ },
+ {
+  "id": 132,
+  "category": "筋損傷総論",
+  "answer": "○",
+  "question": "柔道整復師が扱えるものは閉鎖性筋損傷である。",
+  "explanation": ""
+ },
+ {
+  "id": 133,
+  "category": "筋損傷総論",
+  "answer": "×",
+  "question": "外力の働き方の分類で圧迫力が働いた場合を筋痙攣という。",
+  "explanation": "圧迫力が働いた場合の筋損傷を筋挫傷とよぶ。"
+ },
+ {
+  "id": 134,
+  "category": "筋損傷総論",
+  "answer": "○",
+  "question": "カルシウムイオンは筋の収縮に必要である。",
+  "explanation": ""
+ },
+ {
+  "id": 135,
+  "category": "筋損傷総論",
+  "answer": "○",
+  "question": "損傷した筋線維は過収縮状態となり、痛みを発生する。",
+  "explanation": ""
+ },
+ {
+  "id": 136,
+  "category": "筋損傷総論",
+  "answer": "×",
+  "question": "筋線維の細胞膜が破断すると筋衛星細胞が活性化する。",
+  "explanation": "筋線維の壊死で筋衛星細胞が活性化する。"
+ },
+ {
+  "id": 137,
+  "category": "筋損傷総論",
+  "answer": "○",
+  "question": "筋衛星細胞は筋芽細胞へ分化する。",
+  "explanation": ""
+ },
+ {
+  "id": 138,
+  "category": "筋損傷総論",
+  "answer": "×",
+  "question": "筋衛星細胞が増殖し筋管細胞へ分化する。",
+  "explanation": "筋芽細胞が融合し筋管細胞へ分化する。"
+ },
+ {
+  "id": 139,
+  "category": "筋損傷総論",
+  "answer": "×",
+  "question": "筋線維の壊死から約7週間後に筋線維は再生する。",
+  "explanation": "筋線維の壊死から約7日後に筋線維は再生する。"
+ },
+ {
+  "id": 140,
+  "category": "筋損傷総論",
+  "answer": "×",
+  "question": "瘢痕組織は筋損傷の原因にならない。",
+  "explanation": "瘢痕組織を残して治癒すると再度筋損傷を起こす可能性がある。"
+ },
+ {
+  "id": 141,
+  "category": "筋損傷総論",
+  "answer": "○",
+  "question": "骨化性筋炎は血腫が原因で発症する。",
+  "explanation": ""
+ },
+ {
+  "id": 142,
+  "category": "腱損傷総論",
+  "answer": "○",
+  "question": "腱は筋収縮による力を骨に伝える。",
+  "explanation": ""
+ },
+ {
+  "id": 143,
+  "category": "腱損傷総論",
+  "answer": "○",
+  "question": "腱は豊富なコラーゲン線維からなる。",
+  "explanation": ""
+ },
+ {
+  "id": 144,
+  "category": "腱損傷総論",
+  "answer": "×",
+  "question": "アキレス腱は強靭な腱鞘に包まれる。",
+  "explanation": "アキレス腱は腱鞘の代わりにパラテノンに包まれる。"
+ },
+ {
+  "id": 145,
+  "category": "腱損傷総論",
+  "answer": "○",
+  "question": "腱は関節の動的な支持機構である。",
+  "explanation": ""
+ },
+ {
+  "id": 146,
+  "category": "腱損傷総論",
+  "answer": "○",
+  "question": "パラテノンとは腱傍組織のことである。",
+  "explanation": ""
+ },
+ {
+  "id": 147,
+  "category": "腱損傷総論",
+  "answer": "×",
+  "question": "急性のものに疲労性腱損傷があげられる。",
+  "explanation": "疲労性腱損傷は蓄積性に発生する損傷である。"
+ },
+ {
+  "id": 148,
+  "category": "腱損傷総論",
+  "answer": "○",
+  "question": "その他の腱損傷の原因として関節リウマチなどがあげられる。",
+  "explanation": ""
+ },
+ {
+  "id": 149,
+  "category": "腱損傷総論",
+  "answer": "○",
+  "question": "腱損傷の第Ⅱ度は部分的断裂損傷である。",
+  "explanation": ""
+ },
+ {
+  "id": 150,
+  "category": "腱損傷総論",
+  "answer": "○",
+  "question": "腱実質部での損傷の代表的なものはアキレス腱断裂である。",
+  "explanation": ""
+ },
+ {
+  "id": 151,
+  "category": "腱損傷総論",
+  "answer": "×",
+  "question": "ジャンパー膝は脛骨付着部の損傷である。",
+  "explanation": "ジャンパー膝は膝蓋骨付着部の損傷である。"
+ },
+ {
+  "id": 152,
+  "category": "腱損傷総論",
+  "answer": "○",
+  "question": "ド・ケルバン病は長母指外転筋腱、短母指伸筋腱の狭窄性腱鞘炎である。",
+  "explanation": ""
+ },
+ {
+  "id": 153,
+  "category": "腱損傷総論",
+  "answer": "○",
+  "question": "腱付着部での損傷例としてマレットフィンガーがあげられる。",
+  "explanation": ""
+ },
+ {
+  "id": 154,
+  "category": "腱損傷総論",
+  "answer": "○",
+  "question": "腱脱臼の原因に筋支帯の損傷がある。",
+  "explanation": ""
+ },
+ {
+  "id": 155,
+  "category": "腱損傷総論",
+  "answer": "×",
+  "question": "直達外力による損傷では腱実質のみの損傷が多い。",
+  "explanation": "直達外力による損傷では腱周囲の結合組織や滑液包の損傷を合併することが多い。"
+ },
+ {
+  "id": 156,
+  "category": "腱損傷総論",
+  "answer": "×",
+  "question": "牽引力による損傷では腱付着部の剥離骨折が発生する。",
+  "explanation": "牽引力による損傷では腱付着部の裂離骨折が発生する。"
+ },
+ {
+  "id": 157,
+  "category": "腱損傷総論",
+  "answer": "○",
+  "question": "腱組織自身には血行が比較的少ない。",
+  "explanation": ""
+ },
+ {
+  "id": 158,
+  "category": "腱損傷総論",
+  "answer": "○",
+  "question": "腱は筋より再生能力が低い。",
+  "explanation": ""
+ },
+ {
+  "id": 159,
+  "category": "神経損傷総論",
+  "answer": "○",
+  "question": "脳・脊髄は中枢神経である。",
+  "explanation": ""
+ },
+ {
+  "id": 160,
+  "category": "腱損傷総論",
+  "answer": "×",
+  "question": "腱の損傷の第Ⅲ度では部分断裂損傷である。",
+  "explanation": "第Ⅲ度損傷は完全断裂である。"
+ },
+ {
+  "id": 161,
+  "category": "神経損傷総論",
+  "answer": "○",
+  "question": "感覚神経は末梢神経の求心性伝導路である。",
+  "explanation": ""
+ },
+ {
+  "id": 162,
+  "category": "神経損傷総論",
+  "answer": "○",
+  "question": "自律神経の遠心性伝導路には交感神経が含まれる。",
+  "explanation": ""
+ },
+ {
+  "id": 163,
+  "category": "神経損傷総論",
+  "answer": "×",
+  "question": "無髄神経はミエリン鞘を有する。",
+  "explanation": "ミエリン鞘(髄鞘)を有するのは有髄神経である。"
+ },
+ {
+  "id": 164,
+  "category": "神経損傷総論",
+  "answer": "○",
+  "question": "有髄神経における活動電位の伝導は跳躍伝導である。",
+  "explanation": ""
+ },
+ {
+  "id": 165,
+  "category": "神経損傷総論",
+  "answer": "×",
+  "question": "無髄神経にはランビエ絞輪という特有の構造がある。",
+  "explanation": "ランビエの絞輪は髄鞘を有する有髄神経でみられる。"
+ },
+ {
+  "id": 166,
+  "category": "神経損傷総論",
+  "answer": "×",
+  "question": "正中神経は肘部管で絞扼される。",
+  "explanation": "肘部管で絞扼されるのは尺骨神経である。"
+ },
+ {
+  "id": 167,
+  "category": "神経損傷総論",
+  "answer": "×",
+  "question": "neurotmesisはいわゆる正座等で足がしびれた状態を指す。",
+  "explanation": "neurapraxiaがいわゆる正座で足がしびれた状態を指す。"
+ },
+ {
+  "id": 168,
+  "category": "神経損傷総論",
+  "answer": "○",
+  "question": "サンダーランドの分類で5度は神経上膜までの完全損傷である。",
+  "explanation": ""
+ },
+ {
+  "id": 169,
+  "category": "神経損傷総論",
+  "answer": "○",
+  "question": "ワーラー変性はサンダーランドの分類の２～５度で起こる。",
+  "explanation": ""
+ },
+ {
+  "id": 170,
+  "category": "神経損傷総論",
+  "answer": "○",
+  "question": "神経損傷の牽引力による分類ではオートバイ事故による引き抜き損傷があげられる。",
+  "explanation": ""
+ },
+ {
+  "id": 171,
+  "category": "神経損傷総論",
+  "answer": "○",
+  "question": "分娩による神経損傷は腕神経叢損傷である。",
+  "explanation": ""
+ },
+ {
+  "id": 172,
+  "category": "神経損傷総論",
+  "answer": "×",
+  "question": "運動神経障害では痙性麻痺がみられる。",
+  "explanation": "運動神経障害では弛緩性麻痺を呈する。"
+ },
+ {
+  "id": 173,
+  "category": "神経損傷総論",
+  "answer": "○",
+  "question": "遅発性尺骨神経麻痺は持続的な絞扼による神経損傷である。",
+  "explanation": ""
+ },
+ {
+  "id": 174,
+  "category": "神経損傷総論",
+  "answer": "○",
+  "question": "弛緩性麻痺は力が入らない状態である。",
+  "explanation": ""
+ },
+ {
+  "id": 175,
+  "category": "神経損傷総論",
+  "answer": "×",
+  "question": "徒手筋力検査(MMT)は1～5で評価する。",
+  "explanation": "徒手筋力検査(MMT)は0～5で評価する。"
+ },
+ {
+  "id": 176,
+  "category": "神経損傷総論",
+  "answer": "○",
+  "question": "チネル徴候は末梢神経損傷部の評価に用いる。",
+  "explanation": ""
+ },
+ {
+  "id": 177,
+  "category": "神経損傷総論",
+  "answer": "×",
+  "question": "徒手筋力検査(MMT)では神経損傷の高位を同定できる。",
+  "explanation": "神経損傷の部位を同定するにはチネル徴候を用いる。"
+ },
+ {
+  "id": 178,
+  "category": "神経損傷総論",
+  "answer": "○",
+  "question": "神経の再生速度は1日１～２㎜程度である。",
+  "explanation": ""
+ },
+ {
+  "id": 179,
+  "category": "筋損傷総論",
+  "answer": "×",
+  "question": "筋線維は筋周膜に包まれる。",
+  "explanation": "筋線維は筋内膜に包まれる。"
+ },
+ {
+  "id": 180,
+  "category": "筋損傷総論",
+  "answer": "○",
+  "question": "疲労性筋損傷は蓄積性に発生する損傷である。",
+  "explanation": ""
+ },
+ {
+  "id": 181,
+  "category": "筋損傷総論",
+  "answer": "○",
+  "question": "直達外力での筋損傷は深層筋の損傷が多い。",
+  "explanation": ""
+ },
+ {
+  "id": 182,
+  "category": "筋損傷総論",
+  "answer": "×",
+  "question": "瞬間的に作用する力のことを反復性という。",
+  "explanation": "瞬間的に作用する力を急性という。"
+ },
+ {
+  "id": 183,
+  "category": "筋損傷総論",
+  "answer": "○",
+  "question": "クラッシュシンドロームは災害時に多くみられる。",
+  "explanation": ""
+ },
+ {
+  "id": 184,
+  "category": "筋損傷総論",
+  "answer": "×",
+  "question": "筋線維の再生能力は低い。",
+  "explanation": "筋線維は筋衛星細胞により再生能力は高い。"
+ },
+ {
+  "id": 185,
+  "category": "筋損傷総論",
+  "answer": "×",
+  "question": "骨化性筋炎は疼痛が原因で発症する。",
+  "explanation": "骨化性筋炎は血腫が原因となって発症する。"
+ },
+ {
+  "id": 186,
+  "category": "腱損傷総論",
+  "answer": "○",
+  "question": "アキレス腱には腱鞘がなく、その周囲はパラテノンに包まれている。",
+  "explanation": ""
+ },
+ {
+  "id": 187,
+  "category": "腱損傷総論",
+  "answer": "○",
+  "question": "腱の損傷の炎症ではド・ケルバン病がある。",
+  "explanation": ""
+ },
+ {
+  "id": 188,
+  "category": "腱損傷総論",
+  "answer": "×",
+  "question": "腱板損傷は腱の走行位置に異常を起こす損傷である。",
+  "explanation": "腱板損傷は骨との摩擦が頻繁な部での損傷である。"
+ },
+ {
+  "id": 189,
+  "category": "腱損傷総論",
+  "answer": "○",
+  "question": "腱の中でアキレス腱は比較的再生能力が高い。",
+  "explanation": ""
+ },
+ {
+  "id": 190,
+  "category": "神経損傷総論",
+  "answer": "×",
+  "question": "末梢神経の求心性伝導路に運動神経があげられる。",
+  "explanation": "運動神経は末梢神経の遠心性伝導路である。"
+ },
+ {
+  "id": 191,
+  "category": "神経損傷総論",
+  "answer": "×",
+  "question": "セドンの分類のⅡ型はneurotmesisである。",
+  "explanation": "セドンの分類のⅡ型はaxonotmesisである。"
+ },
+ {
+  "id": 192,
+  "category": "神経損傷総論",
+  "answer": "○",
+  "question": "運動神経障害の筋力低下の判定にはMMTが用いられる。",
+  "explanation": ""
+ },
+ {
+  "id": 193,
+  "category": "神経損傷総論",
+  "answer": "×",
+  "question": "サンダーランドの分類の２度ではワーラー変性は起こらない。",
+  "explanation": "サンダーランドの分類の2～5度でワーラー変性は起こる。"
+ },
+ {
+  "id": 194,
+  "category": "神経損傷総論",
+  "answer": "○",
+  "question": "チネル徴候はその神経の支配領域にシビレ感が走る徴候をいう。",
+  "explanation": ""
+ }
+]
