@@ -425,9 +425,6 @@
         <button class="mode-toggle-btn" id="normalModeBtn" onclick="switchToNormalMode()">
           📚 通常モード
         </button>
-        <button class="mode-toggle-btn" id="reviewModeToggleBtn" onclick="switchToReviewMode()">
-          📝 復習モード <span class="badge" id="reviewCountBadge">0</span>
-        </button>
       </div>
       <div class="review-mode-indicator" id="reviewModeIndicator" style="display: none;">
         復習モード実行中
@@ -622,11 +619,6 @@
     }
 
     function updateHeaderButtons() {
-      const count = incorrectKeys.length;
-      const reviewBtn = $('reviewModeToggleBtn');
-      $('reviewCountBadge').textContent = count;
-      reviewBtn.disabled = count === 0;
-      reviewBtn.style.opacity = count === 0 ? '0.5' : '1';
       if ($('quizContent').style.display !== 'none' ||
           $('resultScreen').style.display !== 'none') {
         $('headerButtons').style.display = 'flex';
@@ -677,23 +669,9 @@
       updateStats();
     }
 
-    function switchToReviewMode() {
-      if (isReviewMode) return;
-      if (incorrectKeys.length === 0) {
-        alert('復習する問題がありません。');
-        return;
-      }
-      if ($('quizContent').style.display === 'block' &&
-          !confirm('復習モードに切り替えますか？現在の進捗は失われます。')) {
-        return;
-      }
-      startReviewMode();
-    }
-
     function updateModeUI() {
       const modeInfo = $('modeInfo');
       $('normalModeBtn').classList.toggle('active', !isReviewMode);
-      $('reviewModeToggleBtn').classList.toggle('active', isReviewMode);
       $('reviewModeIndicator').style.display = isReviewMode ? 'inline-block' : 'none';
       modeInfo.style.display = 'block';
       modeInfo.className = isReviewMode ? 'mode-info review-mode' : 'mode-info';
